@@ -4,3 +4,5 @@ Lakers
 Clippers
 Bucks
 Heat
+Mavericks
+Sixers
